@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Mazzzing.exe" version="1.0.0.22" publicKeyToken="18773147b711cee7" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Mazzzing.exe" version="1.0.0.22" publicKeyToken="ece619a2bd353a7c" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="Cluo.ico" xmlns="urn:schemas-microsoft-com:asm.v1">Privately, Securely and Mazzzingly Yours!</description>
   <application />
   <entryPoint>
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="16808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="16816">
       <assemblyIdentity name="Launcher" version="7.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>j474XE71G6d/DpEUyVXOUC2pNt6ukOb6it0jM9BpKMk=</dsig:DigestValue>
+        <dsig:DigestValue>gLlbQagoaR4rzu3KfAQoxSTJ69Exxl5jimDdnv+vA6A=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -79,42 +79,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>7+jxymff/+bcBcIf6vm0LY/a58rbCu6dJHU7gi2ApJ0=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="DevExpress.Data.v21.2.dll" size="5286352">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>AFDcqJvigUK9DVSzPnbVqtpaKk22OQosu7hHJ5l/hZI=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="DevExpress.Utils.v21.2.dll" size="18552272">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>E0eCf9DQQYMocMu05Ul1D1546Zs9EwhlTG1KW1TjbPM=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="DevExpress.XtraBars.v21.2.dll" size="6726096">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>rK8z7w8RGaFGF2MvLNXhqM27ralXeNisztta2ErSYm0=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="DevExpress.XtraEditors.v21.2.dll" size="7797712">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>H+2XZv11xunuN9wrhShdxugQGhasBiL25lTSMOG8bTs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Interop.MSTSCLib.dll" size="755712">
@@ -162,40 +126,40 @@
       <dsig:DigestValue>zaYMhfo/RhnpQUia140miOfnyu7rhkiWd6rIHsyoj0Q=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Mazzzing.deps.json" size="53883">
+  <file name="Mazzzing.deps.json" size="52340">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>uySHVwy+irQ96nHav/sg0t0zLgerKZ4u0kRX2ytaYL4=</dsig:DigestValue>
+      <dsig:DigestValue>hVZ0Bp7jziI3JE4UnZj00Q3FJgtQ6lo2EZPUtE1EEdk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Mazzzing.dll" size="8229800">
+  <file name="Mazzzing.dll" size="8229808">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>baO6qLF60ZT3coETZe2Ya3P2KTTRIeHx0UiwXMVT8w0=</dsig:DigestValue>
+      <dsig:DigestValue>5oQ/yHm02bCOOcxdR+DnH+KOn46Tmd+4/2BP2ZNn63g=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Mazzzing.dll.config" size="386">
+  <file name="Mazzzing.dll.config" size="371">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>tNgEeZXlpA9k0mXPKytaPq8uDpEGRMXNvC8xlRr330I=</dsig:DigestValue>
+      <dsig:DigestValue>vvBF17MxqU+Tcvzcu2VQj4/ycHLG46wHwBFDnKeseBE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Mazzzing.exe" size="222632">
+  <file name="Mazzzing.exe" size="222640">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>j4RPdRQprtFv5P1a4T4Je5nZuYAi+0kM5qhpQleL9M4=</dsig:DigestValue>
+      <dsig:DigestValue>bpmbsiHzWR+DqTFdFLSwXAIZPB7aObWwHSsVxT36ZLE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Mazzzing.runtimeconfig.json" size="161">
@@ -402,7 +366,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Cl3Sqoriwr1Ree0y/GlgTB0lI1zqIYwaTeaNnDV9oQo=</dsig:DigestValue>
+      <dsig:DigestValue>qoneFaz4ta33waPmMa2a+tR94PgkKJ1PWAxfQc9tkuQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="runtimes\alpine-x64\native\libe_sqlite3.so" size="1134320">
@@ -765,4 +729,4 @@
       <dsig:DigestValue>6hcKV6Rsb2W9Cgdhjbu6PFiF5Z3D3kUCxQG3+NJi4bE=</dsig:DigestValue>
     </hash>
   </file>
-<publisherIdentity name="CN=POLAP68\poi" issuerKeyHash="d979682abd83ba5b82b93d4c898cd1aa17876ee7" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/uGO3WkzZ0pk81v98cvmQ+fb0/hxXn6+rg1GadUWqQA=</DigestValue></Reference></SignedInfo><SignatureValue>S7kgFj8JB3M/YYe6dkYZIspwkCcwOeUEzcdGzpLK4Jg7EaqCZR15Em0tIkopWpZraxww6ACjfwAJ+XA0OxwopYbfOWPxUbzo4+2YZfQcqMp2Uztc4jFQuEoeo9n2ZIfrEkH7pwUWPkX5ktOJNLaRMQNzfEnzrwejiattKKuy2sg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1S63euIC70x9/aG83IBjYKTycJixo2TJhTdIhtPR6Flmzkn/6h8lx80ey0FF/klnuqrahukCzpeOj9hAEIxtzBX8E+/UVvIWkUQCarhWhhioQsWejxRePqNkrK3qOo7CFgbfvpjKL/ivSbBcZw28lIc1vxOqwRk2bEBebb0qhUE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="00a916d569460daebe7e5e71f8d3dbe743e6cbf1fd5bf3644a673369dd8ee1fe" Description="" Url=""><as:assemblyIdentity name="Mazzzing.exe" version="1.0.0.22" publicKeyToken="18773147b711cee7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=POLAP68\poi</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>b5LFyjl/kVN0HwsdeF6qxmLTkZRIoXVPolpfshOUVps=</DigestValue></Reference></SignedInfo><SignatureValue>KEh1B45LUFK0vxYuj6rvPtcV31+t7ezXKY457auAh0sJ1yBF5iSxwZaVlA1GT/b0YZpKuimqaE1R+AyVE7p8N81F90DyJZ86zf3Pq2BkUXQEE5iRJJcZdcop6xtaOgtDxZMI4QjF5aSnkWVbYZkLTLr1G+fAiOQHXkmzJmS75E4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1S63euIC70x9/aG83IBjYKTycJixo2TJhTdIhtPR6Flmzkn/6h8lx80ey0FF/klnuqrahukCzpeOj9hAEIxtzBX8E+/UVvIWkUQCarhWhhioQsWejxRePqNkrK3qOo7CFgbfvpjKL/ivSbBcZw28lIc1vxOqwRk2bEBebb0qhUE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQeem70o4R7ZFKkpraxVxszjANBgkqhkiG9w0BAQsFADAhMR8wHQYDVQQDHhYAUABPAEwAQQBQADYAOABcAHAAbwBpMB4XDTIyMDkwMTEwMTAwM1oXDTIzMDkwMTE2MTAwM1owITEfMB0GA1UEAx4WAFAATwBMAEEAUAA2ADgAXABwAG8AaTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA1S63euIC70x9/aG83IBjYKTycJixo2TJhTdIhtPR6Flmzkn/6h8lx80ey0FF/klnuqrahukCzpeOj9hAEIxtzBX8E+/UVvIWkUQCarhWhhioQsWejxRePqNkrK3qOo7CFgbfvpjKL/ivSbBcZw28lIc1vxOqwRk2bEBebb0qhUECAwEAATANBgkqhkiG9w0BAQsFAAOBgQC0DSrmSgnAOvG2tV17aQtgo2KfDQa8Bkp60JH2zdYyqX3QoE9LaguG6Fvp6V+HreiNZYrDGA661rruwMICEf8W8XdgFLe9LUkOC0LjOr+jeev5LQwo5Vc0IUjG/iqldfaHl+k61Zok6gJ40Ot1FFvRGRfaIDMqmJTX4Sky0rnBAA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=POLAP66\POLAP" issuerKeyHash="3cbe87bd58bc28882a61adb28b5472dcabd4a1da" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>RKtczEamqg1yngE0sT4STilL1FPepIaxercM6vLfNWw=</DigestValue></Reference></SignedInfo><SignatureValue>cZn3F1daXZeE/W7qu/nEyumXWP4M+1L98rEvoU2mY4xY92RRGwPODlgwNsol5pdpBMmyUyXIwDJAgF5L7RxcNrdDoheTzTh71YYr7cya+ZNP5bZuNa3l/P3t/zfs11+Q8Y0HvW1p5PUANY+4fRdB3Gj7lVhLDj5a3aGOCQwk8rQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2GMbe6PZV5Yp5bWfCr2frbCIr5tvoPjcvo30Ut2SJSsQVvDmHXsZe8ntNd6tKGnfVJN0mBapwqky67jv/L4bXMhFUtqH6oq9UOxc9sIxoZEzSoEMAUOdSNvnDGraGKb50zUfEfTIPYuGfdqt7d39jT/SSiC1nuRsuj2zmK1f40E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6c35dff2ea0cb77ab186a4de53d44b294e123eb134019e720daaa646cc5cab44" Description="" Url=""><as:assemblyIdentity name="Mazzzing.exe" version="1.0.0.22" publicKeyToken="ece619a2bd353a7c" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=POLAP66\POLAP</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>V3QSmfrBZGCVDlGK4OAA7WrsQaN7O2E3yS3CyjgG9Sg=</DigestValue></Reference></SignedInfo><SignatureValue>0GRy7ZNzxWyryByDeknF4tiOzTjDg55SI7so/1h/PkcYXzEhq58z1o8FflOl/dGVDm806ud9M2EE8L9wsVrLn4y1KWxg/AAD4UdwGrcDhImhfoUFnrfd3hpFHIhQlAPUmZxIpt/iroKMQPRazc6Z5QDFWu+7gyB4/opTV8XN6lI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2GMbe6PZV5Yp5bWfCr2frbCIr5tvoPjcvo30Ut2SJSsQVvDmHXsZe8ntNd6tKGnfVJN0mBapwqky67jv/L4bXMhFUtqH6oq9UOxc9sIxoZEzSoEMAUOdSNvnDGraGKb50zUfEfTIPYuGfdqt7d39jT/SSiC1nuRsuj2zmK1f40E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQcMeuBTPi641I/5fvSHLz3TANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoAUABPAEwAQQBQADYANgBcAFAATwBMAEEAUDAeFw0yMjEyMDYwNjI0MjNaFw0yMzEyMDYxMjI0MjNaMCUxIzAhBgNVBAMeGgBQAE8ATABBAFAANgA2AFwAUABPAEwAQQBQMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDYYxt7o9lXlinltZ8KvZ+tsIivm2+g+Ny+jfRS3ZIlKxBW8OYdexl7ye013q0oad9Uk3SYFqnCqTLruO/8vhtcyEVS2ofqir1Q7Fz2wjGhkTNKgQwBQ51I2+cMatoYpvnTNR8R9Mg9i4Z92q3t3f2NP9JKILWe5Gy6PbOYrV/jQQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAHWvGyP2U01fVyCgcP42FeJIiGP/ziwZ0ethNfIc/Oz1cxtSpX/tLSHi2yYHTmnTFmmKKVKS0AJlGyRIdeLlYf8+uLt2BAQ4xpn2KjBy1SzlOCJLRXwdBqNKQnupdL8TEQGP95aYV4emxjbeQqQeqkPOG30iNiKgkuu39n+51dHD</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
