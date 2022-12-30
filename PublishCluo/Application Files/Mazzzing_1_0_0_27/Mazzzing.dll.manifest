@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Mazzzing.exe" version="1.0.0.27" publicKeyToken="18773147b711cee7" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Mazzzing.exe" version="1.0.0.27" publicKeyToken="01e3e14c43bf6fc6" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="Cluo.ico" xmlns="urn:schemas-microsoft-com:asm.v1">Privately, Securely and Mazzzingly Yours!</description>
   <application />
   <entryPoint>
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="16808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="20176">
       <assemblyIdentity name="Launcher" version="7.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>j474XE71G6d/DpEUyVXOUC2pNt6ukOb6it0jM9BpKMk=</dsig:DigestValue>
+        <dsig:DigestValue>KG05w11fpSalndaff/nNMhT7iUyPoSuWX5NSbLG8onY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -79,42 +79,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>7+jxymff/+bcBcIf6vm0LY/a58rbCu6dJHU7gi2ApJ0=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="DevExpress.Data.v21.2.dll" size="5286352">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>AFDcqJvigUK9DVSzPnbVqtpaKk22OQosu7hHJ5l/hZI=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="DevExpress.Utils.v21.2.dll" size="18552272">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>E0eCf9DQQYMocMu05Ul1D1546Zs9EwhlTG1KW1TjbPM=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="DevExpress.XtraBars.v21.2.dll" size="6726096">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>rK8z7w8RGaFGF2MvLNXhqM27ralXeNisztta2ErSYm0=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="DevExpress.XtraEditors.v21.2.dll" size="7797712">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>H+2XZv11xunuN9wrhShdxugQGhasBiL25lTSMOG8bTs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Interop.MSTSCLib.dll" size="755712">
@@ -162,22 +126,22 @@
       <dsig:DigestValue>zaYMhfo/RhnpQUia140miOfnyu7rhkiWd6rIHsyoj0Q=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Mazzzing.deps.json" size="53883">
+  <file name="Mazzzing.deps.json" size="52340">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>uySHVwy+irQ96nHav/sg0t0zLgerKZ4u0kRX2ytaYL4=</dsig:DigestValue>
+      <dsig:DigestValue>hVZ0Bp7jziI3JE4UnZj00Q3FJgtQ6lo2EZPUtE1EEdk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Mazzzing.dll" size="8230312">
+  <file name="Mazzzing.dll" size="8234192">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>h8NiHlnlarmgA8BhU7U1qJfPz/r17B19YM0f8l7mfmU=</dsig:DigestValue>
+      <dsig:DigestValue>PRWBRFz5rPZiUpasQxr5k5PX6LTFLPU+pQ3nfiHhiHA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Mazzzing.dll.config" size="386">
@@ -189,22 +153,22 @@
       <dsig:DigestValue>tNgEeZXlpA9k0mXPKytaPq8uDpEGRMXNvC8xlRr330I=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Mazzzing.exe" size="222632">
+  <file name="Mazzzing.exe" size="226512">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>j4RPdRQprtFv5P1a4T4Je5nZuYAi+0kM5qhpQleL9M4=</dsig:DigestValue>
+      <dsig:DigestValue>+P9AFaHrhOCdCxdZv4/Dk2bKZ1oEb5yj7QUc3Tf+SKk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Mazzzing.runtimeconfig.json" size="161">
+  <file name="Mazzzing.runtimeconfig.json" size="267">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>JEdMwGltKlJ/VjUDCkPZtJsOaZOrS/AfPDPsNBMwP+0=</dsig:DigestValue>
+      <dsig:DigestValue>6BU3lO2uuenq99uD5Mrcu3lj/kEDcbKqyCiGOTTU+to=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Microsoft.Data.Sqlite.dll" size="151432">
@@ -402,7 +366,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Cl3Sqoriwr1Ree0y/GlgTB0lI1zqIYwaTeaNnDV9oQo=</dsig:DigestValue>
+      <dsig:DigestValue>bCmmtACppgS5IwY0yyPNVJu1uUljM2HEqFJro5HAGBc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="runtimes\alpine-x64\native\libe_sqlite3.so" size="1134320">
@@ -765,4 +729,4 @@
       <dsig:DigestValue>6hcKV6Rsb2W9Cgdhjbu6PFiF5Z3D3kUCxQG3+NJi4bE=</dsig:DigestValue>
     </hash>
   </file>
-<publisherIdentity name="CN=POLAP68\poi" issuerKeyHash="d979682abd83ba5b82b93d4c898cd1aa17876ee7" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>y605nZTZnQIMEw6razG06jwyJx01UE5A+yY1JHOdlA8=</DigestValue></Reference></SignedInfo><SignatureValue>DgRKT/MLQ41EV80qjdS3v2p7hdE1K1FX2QYnFa22vAmX5yT3MieNrzz0Tfm1cd6njfwl/0r1hMOOQQDioVMj8NGdly3aGMkF5f2C6p1Y1yjwgHzo4NX97qxTLUt1dfWeUcZk9eJQyYngqcB40J+HgPPUI8ZOWQId6qI7IbnhQqw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1S63euIC70x9/aG83IBjYKTycJixo2TJhTdIhtPR6Flmzkn/6h8lx80ey0FF/klnuqrahukCzpeOj9hAEIxtzBX8E+/UVvIWkUQCarhWhhioQsWejxRePqNkrK3qOo7CFgbfvpjKL/ivSbBcZw28lIc1vxOqwRk2bEBebb0qhUE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0f949d73243526fb404e50351d27323ceab4316bab0e130c029dd9949d39adcb" Description="" Url=""><as:assemblyIdentity name="Mazzzing.exe" version="1.0.0.27" publicKeyToken="18773147b711cee7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=POLAP68\poi</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ki5YJP5AtyHtx3Zm4y8WAc9Su0eeBeVoFoHrXKrBQj8=</DigestValue></Reference></SignedInfo><SignatureValue>rE9hNYPi+gfBWqAz9+AXNS930tvCBGCSbmAnFAVPCe+8CCy4JFq3qDxX+chiCB/T8wl9tPm3On/sugSvWmYXOUaDIirIN2UCaif53tYuosPq9XXnHQOR6QO9Eq6Up5bEAY2kZ0ntVoy4pZ/WOl+c/6mGv7YByBtbpdET5UZl/GM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1S63euIC70x9/aG83IBjYKTycJixo2TJhTdIhtPR6Flmzkn/6h8lx80ey0FF/klnuqrahukCzpeOj9hAEIxtzBX8E+/UVvIWkUQCarhWhhioQsWejxRePqNkrK3qOo7CFgbfvpjKL/ivSbBcZw28lIc1vxOqwRk2bEBebb0qhUE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQeem70o4R7ZFKkpraxVxszjANBgkqhkiG9w0BAQsFADAhMR8wHQYDVQQDHhYAUABPAEwAQQBQADYAOABcAHAAbwBpMB4XDTIyMDkwMTEwMTAwM1oXDTIzMDkwMTE2MTAwM1owITEfMB0GA1UEAx4WAFAATwBMAEEAUAA2ADgAXABwAG8AaTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA1S63euIC70x9/aG83IBjYKTycJixo2TJhTdIhtPR6Flmzkn/6h8lx80ey0FF/klnuqrahukCzpeOj9hAEIxtzBX8E+/UVvIWkUQCarhWhhioQsWejxRePqNkrK3qOo7CFgbfvpjKL/ivSbBcZw28lIc1vxOqwRk2bEBebb0qhUECAwEAATANBgkqhkiG9w0BAQsFAAOBgQC0DSrmSgnAOvG2tV17aQtgo2KfDQa8Bkp60JH2zdYyqX3QoE9LaguG6Fvp6V+HreiNZYrDGA661rruwMICEf8W8XdgFLe9LUkOC0LjOr+jeev5LQwo5Vc0IUjG/iqldfaHl+k61Zok6gJ40Ot1FFvRGRfaIDMqmJTX4Sky0rnBAA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=Mazzzing Inc, O=Mazzzing Inc, L=Milton, S=Ontario, C=CA" issuerKeyHash="6837e0ebb63bf85f1186fbfe617b088865f44e42" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>VZERd9spwa9RJ0WmA02z/atXhQGAPhZBSy5/7V9FjwQ=</DigestValue></Reference></SignedInfo><SignatureValue>UunjEY1vuEdwAvjdyZQ3aI6r24EYadYypA8B4bZRgKc0CqIWY0IutI1MnW6XtQ/G9NFZM+pNdBdPPe4QNcofICnzm7nJuBMcVZBfEdXNOwhmdY9tGmZbZHR1uBo88UGrpdRQK2KhjAPhQZyjdoamRIUNxjpyeb6Z2RrXklXT9yZefNhLNGLGZ1S39x5bbZHMRre5iHGLZC8m5jENXKMoEWkVsjUIHEJiEqUsm8hZ6MFOou858cA+TSvZ+t1l4TesLwxTMotbvyYROsKgiSCX+BJz4kbRqHJYmZ+ANWsRqQwSu7hFqWFyer8H3iBqfF52SAVFCih3xoL/A/aHqA6UNCUVwZLMTT5S2lZ6tFRBFYoSN1FQIzerl2Dc0J2F8GAj+hCfnl9NB7A7I/gNXRXH5PbWoN4+eAdA+Tax64zIaLSrszUNvdPs3nmeSUeZUX49w3wwsDRdn7ny7h1fGtLo1IPlTrRxXGDGwDXVM01wdIaV0KOgywUszAFOnmeBg7Li</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2NuKUbSMzDcwymMa4fIx7PZg653ODOUXQeVVNwXOTdi7ZQi+VU+tSWfPmWNTfs4PBP5sOmjxkOyl9epP1DEurb0OZGZshoDgSJXjZNICcjoAHfBoHZ+6v87GxRZhjIc9hef5GlwYzhoIcikGdRn3MYbJY+85LlOEO0ecTi4/tP8r4boXsG4UB+gQA22fGy8IK3FrVA/GT0UmX/ZCyIE/wGtv1aOqAYFidVNHOf5sV6DAd4ICRgzAn+ve35Evy+F7pzHzPUiJVq8Kv/7JHKM2FC/JnFFvyRVAV23UNrXnGNrg4RQWXgABWlD+P8cOPJ46NnfDwwxlrCETNLT2rqU4wRNqR+ogjwz5TxSnH0JMQvT5DZ+8tkBP5ru08KgfJH1E325mYlroWg9kAv0Q4Q9YwflcZz9EJ4LScpAlJcy6eoyK2Roi866c8SViRQEoiPBf2YZhQTNw4Lp3Ei/aaJUgWZjU0DOsuVHvuPQSATVe16kfQOrXXdtgAzLTw+r27zpt</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="048f455fed7f2e4b41163e80018557abfdb34d03a6452751afc129db77119155" Description="" Url=""><as:assemblyIdentity name="Mazzzing.exe" version="1.0.0.27" publicKeyToken="01e3e14c43bf6fc6" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Mazzzing Inc, O=Mazzzing Inc, L=Milton, S=Ontario, C=CA</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>opekpxZ1DtI49uxf2EDAZaOFusulAKJqMrELreiwljE=</DigestValue></Reference></SignedInfo><SignatureValue>0cNhkxLDX5lEmu69btqr5pTRerW4hUc2jbdy8nAdpmHw6hp3q174/DAsNNkEdqNDy5XHwkcHNTOapCOElXdZbg5qZp/3eSnNV7GRSw+wMZ4SES1fuycI3VrqUZmi+Y1E6RuZ2NglYsd6Su6ShenBMGFdO87apjQ0GjRqD2dKccF5o+dHC8CRcqT3/3v2ntC2+qFCq8y4qWZQsuklpQcMd2M5oYZPuuoazRufKctj3oGW6JBq1Cf1HruzoulXkwoK8Fxe+70btpj2L2NfHObCe6Fy6Xrbe84AUtFTPjhtKeEUfyjYnABCaq3Zlpz+JTpmFrkysUsI8bhXd1GiyfeEyNSP8D+XgN1JPz3ukcbNvlanGvOqq6NNYWCSDQq8baFoAGMUjO5pVDpiR2TQfG3p/Y9gFe5ySNyxRZ7+3gz1OhIXB3ZTZUt5SM7tTI9l0k7Hdd/q0NXaoscRPnKH/WhOgfczhR0H/bgb9M2X0CRC6erUkf1nqOFMkUbZ53e2YP2D</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2NuKUbSMzDcwymMa4fIx7PZg653ODOUXQeVVNwXOTdi7ZQi+VU+tSWfPmWNTfs4PBP5sOmjxkOyl9epP1DEurb0OZGZshoDgSJXjZNICcjoAHfBoHZ+6v87GxRZhjIc9hef5GlwYzhoIcikGdRn3MYbJY+85LlOEO0ecTi4/tP8r4boXsG4UB+gQA22fGy8IK3FrVA/GT0UmX/ZCyIE/wGtv1aOqAYFidVNHOf5sV6DAd4ICRgzAn+ve35Evy+F7pzHzPUiJVq8Kv/7JHKM2FC/JnFFvyRVAV23UNrXnGNrg4RQWXgABWlD+P8cOPJ46NnfDwwxlrCETNLT2rqU4wRNqR+ogjwz5TxSnH0JMQvT5DZ+8tkBP5ru08KgfJH1E325mYlroWg9kAv0Q4Q9YwflcZz9EJ4LScpAlJcy6eoyK2Roi866c8SViRQEoiPBf2YZhQTNw4Lp3Ei/aaJUgWZjU0DOsuVHvuPQSATVe16kfQOrXXdtgAzLTw+r27zpt</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>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</X509Certificate><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
